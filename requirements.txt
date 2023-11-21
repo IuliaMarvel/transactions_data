@@ -1,0 +1,4 @@
+pytorch-lifestream==0.5.2
+numpy==1.23.0
+pytorch-lightning==1.6.0
+torch==1.10.2
